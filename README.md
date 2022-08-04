@@ -2,7 +2,7 @@
 
 ### Note
 
-originally built on CodeSandBox: https://codesandbox.io/s/space-x-missions-testing-graphql-kki0dc
+Originally built on CodeSandBox: https://codesandbox.io/s/space-x-missions-testing-graphql-kki0dc
 
 ### Live link
 
