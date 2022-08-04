@@ -1,0 +1,16 @@
+html {
+  /*  page jerk fix hack */
+  margin: 0.1rem 0 0.1rem 0;
+}
+
+@media only screen and (min-width: 600px) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@media only screen and (max-width: 599px) {
+  html {
+    scroll-behavior: auto;
+  }
+}
