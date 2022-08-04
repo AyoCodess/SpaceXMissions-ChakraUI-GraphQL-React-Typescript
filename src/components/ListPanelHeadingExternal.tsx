@@ -1,7 +1,7 @@
 import React from "react";
 import { ExternalLinkIcon } from "@chakra-ui/icons";
 import { Text, ListIcon, Link, Flex } from "@chakra-ui/react";
-import { Mission } from "../@types/custom.d";
+import { Mission } from "../types/custom";
 
 interface Props {
   mission: Mission;

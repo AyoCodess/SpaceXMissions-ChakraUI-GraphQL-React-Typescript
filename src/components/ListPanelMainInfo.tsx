@@ -8,7 +8,7 @@ import {
   ListPanelHeading
 } from "../components";
 
-import { Mission } from "../@types/custom.d";
+import { Mission } from "../types/custom";
 
 interface Props {
   mission: Mission;

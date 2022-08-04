@@ -7,7 +7,7 @@ import {
   AccordionIcon
 } from "@chakra-ui/react";
 import { ListPanel, ListButton } from "../components";
-import { Mission } from "../@types/custom.d";
+import { Mission } from "../types/custom";
 
 interface Props {
   missions: Mission[];

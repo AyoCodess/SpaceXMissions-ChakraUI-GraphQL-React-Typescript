@@ -1,7 +1,7 @@
 import React from "react";
 import {} from "@chakra-ui/icons";
 import { Box, ListItem, Text, Flex, Image } from "@chakra-ui/react";
-import { Mission } from "../@types/custom.d";
+import { Mission } from "../types/custom";
 
 import {
   ListPanelSectionMainTitle,

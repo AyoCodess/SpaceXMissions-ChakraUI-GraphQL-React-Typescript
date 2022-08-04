@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, List } from "@chakra-ui/react";
-import { Mission } from "../@types/custom.d";
+import { Mission } from "../types/custom";
 
 import { ListPanelMainInfo, ListPanelOtherDetails } from "../components";
 

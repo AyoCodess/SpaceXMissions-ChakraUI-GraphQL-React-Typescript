@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useQuery } from "@apollo/client";
 import { LOAD_MISSIONS } from "../GraphQL/Queries";
 import { List, LoadingSpinner, ApiError } from "../components";
-import { Mission } from "../@types/custom.d";
+import { Mission } from "../types/custom";
 
 export const GetMissions = () => {
   const { error, loading, data } = useQuery(LOAD_MISSIONS);
