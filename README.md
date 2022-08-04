@@ -1,5 +1,9 @@
 # Space X Launch Missions
 
+### Note
+
+originally built on CodeSandBox: https://codesandbox.io/s/space-x-missions-testing-graphql-kki0dc
+
 ### Live link
 
 https://spacexmissions-ayocodes.netlify.app/
